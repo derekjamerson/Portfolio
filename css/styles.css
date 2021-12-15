@@ -11558,3 +11558,24 @@ body{
   margin-top: 3rem;
   font-size: .8rem;
 }
+#project-button{
+  text-align: left;
+  border: none;
+  background-color: transparent;
+  padding: 1rem;
+}
+#project-header{
+  padding-bottom: 1rem;
+}
+#project-button:hover{
+  background:var(--bs-gray-200);
+  border-radius: 30px;
+}
+@media screen and (max-width: 600px) {
+  #project-button{
+    border: ridge 5px var(--bs-gray);
+    background-color: var(--bs-gray-200);
+    border-radius: 40px;
+    padding: 2rem;
+  }
+}
