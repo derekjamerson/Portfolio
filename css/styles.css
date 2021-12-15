@@ -11418,9 +11418,6 @@ section.resume-section .resume-section-content {
   section.resume-section {
     min-height: 100vh;
   }
-  .intro{
-    margin-right: 5rem;
-  }
 }
 @media (min-width: 992px) {
   section.resume-section {
@@ -11428,9 +11425,6 @@ section.resume-section .resume-section-content {
     padding-right: 3rem;
     padding-top: 5rem;
     padding-bottom: 5rem;
-  }
-  .intro{
-    margin-right: 22rem;
   }
   }
 /* reset */
