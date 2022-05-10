@@ -11568,7 +11568,7 @@ body{
   padding-bottom: 1rem;
 }
 #project-button:hover{
-  background:var(--bs-gray-700);
+  background:var(--bs-gray-500);
   border-radius: 30px;
 }
 @media screen and (max-width: 600px) {
